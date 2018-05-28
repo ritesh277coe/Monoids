@@ -12,7 +12,7 @@ A set of objects and operation suct that:
 Semi Groups:
 Which only has first 2 property, closure, and associative.
 
-Al Monoids are semi gropus, but all semi groups are not Monoids.
+All Monoids are semi gropus, but all semi groups are not Monoids.
 
 With mathematic notations:
 
